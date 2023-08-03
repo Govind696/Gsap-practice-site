@@ -1,0 +1,321 @@
+@media screen and (max-width: 900px) {
+
+
+    .page1 h1 {
+        margin-top: 16vw;
+        margin-left: 15vw;
+    }
+
+    .page2-right p {
+        font-size: 2vw;
+        letter-spacing: 1px;
+    }
+
+    .page2-right {
+        width: 38%;
+    }
+
+    .page1 video {
+        margin-top: 14vw;
+    }
+
+    .page2-left h2 {
+        font-size: 3.8vw;
+        letter-spacing: 3px;
+    }
+
+    .page3-part1 {
+        justify-content: space-around;
+        padding: 0px;
+        height: 100vh;
+    }
+
+    .page3-part1 video {
+        height: 60%;
+    }
+
+    .page3-part1 img {
+        height: 60%;
+        margin-top: 230px;
+    }
+
+    .page3-part2 img {
+        height: 60%;
+        margin-top: 40px;
+    }
+
+    .page3-part2 {
+        justify-content: space-around;
+        padding: 0px;
+        height: 100vh;
+    }
+
+    .page3-part2 video {
+        height: 60%;
+        margin-top: 300px;
+    }
+
+    .page3-button {
+        left: 58vw;
+        top: 0vh;
+    }
+
+    .page3-button button {
+        width: 100%;
+    }
+
+    .elem h1 {
+        font-size: 7.5vw;
+        transition: all 0.5s ease-out;
+        padding-bottom: 20px;
+    }
+
+    .text-div {
+        height: 80px;
+        overflow: hidden;
+    }
+
+    .elem img:nth-child(1) {
+        left: 2%;
+        height: 38vh;
+    }
+
+    .elem img:nth-child(3) {
+        right: 2%;
+        height: 38vh;
+    }
+
+    .page4 {
+        min-height: 100vh;
+        width: 100%;
+        padding: 0px;
+        padding-top: 180px;
+    }
+
+    .box-h4 {
+        padding-left: 30%;
+    }
+
+    .upper-footer {
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .upper-footer h2 {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 3vh;
+    }
+
+    .left-div button {
+        width: 45%;
+    }
+
+    .left-div {
+        width: 45%;
+    }
+
+
+
+
+
+
+}
+
+@media screen and (max-width: 500px) {
+
+    .curser {
+        display: none;
+    }
+
+    .circle {
+        display: none;
+
+    }
+
+    .nav {
+        flex-direction: column;
+        margin: 10px 0;
+        margin-bottom: 60px;
+    }
+
+    .nav-part2 {
+        gap: 60px !important;
+        margin-top: 30px !important;
+    }
+
+    .page1 h1 {
+        margin-top: 35vw !important;
+        margin-left: 8vw !important;
+        font-size: 9vw;
+    }
+    
+    .page1 h2 {
+        font-size: 9vw;
+        margin-left: 25vw !important;
+    }
+
+    .page1 video {
+        margin-top: 30vw !important;
+    }
+
+    .page1 video {
+        margin-top: 30vw !important;
+        height: 75% !important;
+        object-fit: cover !important;
+    }
+
+    .page1 {
+        height: 175vh;
+    }
+
+    .page2 {
+        padding-top: 10rem !important;
+    }
+    .page2 h1 {
+        font-size: 10vw;
+        font-weight: 500;
+        margin-bottom: 3vh;
+        color: #111;
+    }
+    .page2-containor {
+        height: 45vh;
+        justify-content: space-between;
+        padding: 0vw;
+    }
+
+    .page2-right p {
+        font-size: 2.8vw;
+        letter-spacing: 1px;
+    }
+
+    .page2-right {
+        width: 46%;
+    }
+
+    .page2-left h2 {
+        font-size: 5vw;
+        line-height: 6vw;
+        letter-spacing: 2px;
+        font-weight: 300;
+    }
+
+    .page2-left {
+        width: 40%;
+    }
+
+    .page2-right button {
+        width: 95%;
+        padding: 3px 0;
+        margin-top: 15px;
+        font-size: 15px;
+    }
+
+    .page3 h1,
+    .page3-h2 {
+        font-size: 10.8vw;
+        margin-left: 40px;
+    }
+
+    .page3-part1 {
+        justify-content: space-around;
+        padding: 0px;
+        height: 60vh;
+    }
+
+    .page3-part1 img {
+        height: 70%;
+        /* margin-top: 230px; */
+    }
+
+    .page3-part1 video {
+        height: 70%;
+    }
+
+    .page3-part2 img {
+        height: 70%;
+        margin-top: 120px;
+    }
+
+    .page3-part2 video {
+        height: 70%;
+        margin-top: 300px;
+    }
+
+    .page3-part2 {
+        justify-content: space-around;
+        padding: 0px;
+        height: 60vh;
+    }
+
+    .page3-button {
+        left: 58vw;
+        top: 19vh;
+    }
+    .page3-img-wraper h4 {
+        color: #111;
+        font-size: 4.5vw;
+        margin-top: 10px;
+    }.page3-img-wraper p {
+        color: #111;
+        font-size: 15px;
+    }
+    .page4 {
+        background: black;
+        padding-top: 145px;
+        min-height: 80vh;
+        margin-top: 12rem;
+    }
+    .text-div {
+        height: 65px;
+        overflow: hidden;
+    }
+    .elem img:nth-child(3) {
+        right: 2%;
+        height: 25vh;
+    }
+    .elem img:nth-child(1) {
+        left: 2%;
+        height: 27vh;
+    }
+    .page5 {
+        min-height: 100vh;
+        width: 100%;
+        position: relative;
+        z-index: 9;
+        padding: 40px 30px;
+    }
+    .box-h4 {
+        padding-left: 10%;
+    }
+    .page5 h2 {
+        font-size: 7vw;
+        text-transform: uppercase;
+        font-weight: 400;
+        margin-bottom: 50px;
+        color: black;
+    }
+    .upper-footer h2 {
+        margin-bottom: 5vh;
+        font-size: 1.6rem;
+    }
+    .lower-footer {
+        display: flex;
+        justify-content: center;
+        align-items: start;
+        width: 100%;
+        margin: 75px auto;
+        flex-direction: column;
+    }
+    .left-div {
+        width: 75%;
+        margin: 0 auto;
+    }
+    .right-div {
+        width: 75%;
+        margin: 0 auto;
+        margin-top: 3rem;
+    }
+
+
+}
